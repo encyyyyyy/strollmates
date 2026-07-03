@@ -1,0 +1,48 @@
+{
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/docs/index.html"
+    },
+    {
+      "source": "/privacy",
+      "destination": "/docs/privacy.html"
+    },
+    {
+      "source": "/privacy.html",
+      "destination": "/docs/privacy.html"
+    },
+    {
+      "source": "/terms",
+      "destination": "/docs/terms.html"
+    },
+    {
+      "source": "/terms.html",
+      "destination": "/docs/terms.html"
+    },
+    {
+      "source": "/support",
+      "destination": "/docs/support.html"
+    },
+    {
+      "source": "/support.html",
+      "destination": "/docs/support.html"
+    }
+  ]
+}

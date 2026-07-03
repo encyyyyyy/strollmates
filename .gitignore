@@ -1,0 +1,24 @@
+.DS_Store
+.build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+.env
+.env.*
+!.env.example
+node_modules/
+supabase/.temp/
+supabase/functions/**/node_modules/
+
+# This GitHub/Vercel repository is only for the static App Store reviewer site.
+# Keep the local iOS workspace and generated app assets out of the website repo.
+Been2-Info.plist
+been2/
+been2.xcodeproj/
+been2Tests/
+been2UITests/
+app-store-screenshots/
+icon-concepts/
+supabase/
+docs/been2-v1-setup.md

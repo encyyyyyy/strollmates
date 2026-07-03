@@ -1,0 +1,14 @@
+.git
+.build
+.superwall
+.vscode
+DerivedData
+app-store-screenshots
+icon-concepts
+been2
+been2.xcodeproj
+been2Tests
+been2UITests
+supabase
+*.xcuserstate
+*.moved-aside
