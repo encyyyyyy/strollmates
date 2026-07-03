@@ -56,21 +56,21 @@ Permissions:
 Safety and privacy:
 Strollmates includes friend request controls, blocking, reporting, and in-app account deletion. Your shared walks are visible only according to your privacy settings and accepted friend relationships.
 
-Privacy Policy: https://stormates.vercel.app/privacy.html
+Privacy Policy: https://strollmatesappi.vercel.app/privacy.html
 
-Terms and Conditions: https://stormates.vercel.app/terms.html
+Terms and Conditions: https://strollmatesappi.vercel.app/terms.html
 
-Support: https://stormates.vercel.app/support.html
+Support: https://strollmatesappi.vercel.app/support.html
 
 Apple Standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 ## App Store Connect URLs
 
-- Marketing URL: `https://stormates.vercel.app/`
-- Support URL: `https://stormates.vercel.app/support.html`
-- Privacy Policy URL: `https://stormates.vercel.app/privacy.html`
-- User Privacy Choices URL: `https://stormates.vercel.app/privacy.html#choices`
-- Terms and Conditions URL: `https://stormates.vercel.app/terms.html`
+- Marketing URL: `https://strollmatesappi.vercel.app/`
+- Support URL: `https://strollmatesappi.vercel.app/support.html`
+- Privacy Policy URL: `https://strollmatesappi.vercel.app/privacy.html`
+- User Privacy Choices URL: `https://strollmatesappi.vercel.app/privacy.html#choices`
+- Terms and Conditions URL: `https://strollmatesappi.vercel.app/terms.html`
 - EULA: Use Apple's Standard EULA. Do not add a custom license agreement unless you intentionally want to replace the default.
 
 ## Review Notes

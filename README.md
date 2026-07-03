@@ -8,10 +8,10 @@ The reviewer site is a static Vercel deployment served from `docs/`.
 
 Reviewer URLs:
 
-- Marketing: `https://stormates.vercel.app/`
-- Privacy Policy: `https://stormates.vercel.app/privacy.html`
-- Privacy Choices: `https://stormates.vercel.app/privacy.html#choices`
-- Terms and Conditions: `https://stormates.vercel.app/terms.html`
-- Support: `https://stormates.vercel.app/support.html`
+- Marketing: `https://strollmatesappi.vercel.app/`
+- Privacy Policy: `https://strollmatesappi.vercel.app/privacy.html`
+- Privacy Choices: `https://strollmatesappi.vercel.app/privacy.html#choices`
+- Terms and Conditions: `https://strollmatesappi.vercel.app/terms.html`
+- Support: `https://strollmatesappi.vercel.app/support.html`
 
 No build command is required. `vercel.json` rewrites root URLs to the static pages in `docs/`.
